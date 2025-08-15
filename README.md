@@ -108,7 +108,7 @@ Do you want to continue anyway? [y/N]: n
 Extraction aborted
 ```
 
-##️ Installation
+## Installation
 
 ### Quick Install
 ```bash
